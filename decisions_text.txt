@@ -1,0 +1,24 @@
+--Air Conditions
+1. We need to find out air conditions that are frequently maintained or broken down and details of the rooms and huts they are in, so that we can decide which rooms in which huts need to install new air conditions as the constructors has allocated new funds to improve the comfortability of the construction site huts. 
+
+2. We need to find out the cost of installing air conditions for a new project with the latest installation fee, so that we can compare it to the last project to see if the installation fee increases and how much it increases by (i.e. whether the increase is acceptable), then to decide whether the constructor should find another air condition installer with lower charging fee to control the cost for the new project.
+
+3. We need to find out the total energy emission of air conditions from the project that was just finished, so that we can compare it to the energy emission cap and check if that project had over-emitted carbon, as this project was implemented in summer, whose temperature  was much higher than the average level, and the usage of air conditions was twice than that of the previous year, then we can decide whether offset should be paid for extra carbon emission and how much we should pay.
+
+
+
+--Rooms
+4. We need to find out the full compacity of accommodation rooms to compare to the number of workers of a new project, then to decide whether we can directly reuse these huts or we need to build a new hut.
+
+5. We need to find out the cost of building the rooms for a new project with the latest material fee, so that we can compare it to the last project to see if the cost increases and how much it increases by (i.e. whether the increase is acceptable), then to decide whether the constructor should contact another material supplier with lower material fee or change the material to control the cost for the new project. (Assuming the cost of building rooms consists of two parts: 1) material fee; 2) air condition installation fee.)
+
+6. We need to find out the details of the largest room(s) to see if it (any of them) is eligible to be refurbished as a temporary meeting room for a conference, as all the shareholders of the company are planning to give the new project an inspect, then we can decide which room to be used or whether it is necessary to build and furbish a new small hut for this conference.
+
+
+
+
+--Construction Site Huts
+7. We need to find out the total cost of building the huts for a new project so that we can compare it to the original budget, then to decide whether the manager should apply for more budget to build huts for the new project, as the price of most of facilities and materials are rising due to the soaring inflation and supply chain disruption, which may cause unavoidable increase in each part of the total cost.(Assuming the total cost of building the huts consists of three parts: 1) rooms fee(material fee & air condition installation fee); 2) stairs fee(each hut has two floors); 3) brackets fee(used for structural support).)
+
+
+

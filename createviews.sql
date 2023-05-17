@@ -1,3 +1,4 @@
+```sql
 ------Latest_Parameters------
 create view ucesxum.latest_parameters as 
 (select distinct on(parameter_name)parameter_name, parameter_value, parameter_units, date_created

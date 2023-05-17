@@ -1,3 +1,4 @@
+```sql
 drop schema if exists ucesxum cascade;
 create schema ucesxum;
 

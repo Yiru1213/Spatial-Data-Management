@@ -24,4 +24,6 @@ This project focuses on the asset management of construction huts and includes a
 
 ## Pyramid
 
-A 3-level pyramid including the names of the spatial assets and the their information (spatial_data_management_pyramid.pdf).
+A 3-level pyramid including the names of the spatial assets and the their information.
+
+![](images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-05-18%20213631.png){width="649"}
